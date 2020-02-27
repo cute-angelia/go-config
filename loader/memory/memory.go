@@ -8,10 +8,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/micro/go-config/loader"
-	"github.com/micro/go-config/reader"
-	"github.com/micro/go-config/reader/json"
-	"github.com/micro/go-config/source"
+	"github.com/cute-angelia/go-config/loader"
+	"github.com/cute-angelia/go-config/reader"
+	"github.com/cute-angelia/go-config/reader/json"
+	"github.com/cute-angelia/go-config/source"
 )
 
 type memory struct {

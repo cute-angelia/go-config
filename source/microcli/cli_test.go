@@ -6,7 +6,7 @@ import (
 	"testing"
 
 	"github.com/micro/cli"
-	"github.com/micro/go-config/source"
+	"github.com/cute-angelia/go-config/source"
 	"github.com/micro/go-micro/cmd"
 )
 

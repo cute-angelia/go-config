@@ -3,7 +3,7 @@ package vault
 import (
 	"context"
 
-	"github.com/micro/go-config/source"
+	"github.com/cute-angelia/go-config/source"
 )
 
 type addressKey struct{}
